@@ -18,6 +18,7 @@ uint8_t Relay2;
 
 //export macro
 #define Hotel1 1
+#define Hotel 8
 
 
 #endif
