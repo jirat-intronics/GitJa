@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 #ifdef ISAVE2006_H
 #define ISAVE2006_H
@@ -12,8 +12,11 @@ uint8_t SettindsfdsfgTemp;
 typedef union{
 uindfdf88ohm048t16_t Relay;
 uintdfdf8_t oat1;
-ugfhgfhint8_t Reldfdfay13;gfhd
+ugfhgfhint8_t Reldfdfay13;
+}VitalSetting7;
 }VitalSetting8;
+}VitalSetting12;
+
 
 //export define
 #define gfdfh 1
