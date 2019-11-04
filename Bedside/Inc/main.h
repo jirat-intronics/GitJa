@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -26,11 +23,9 @@
 #ifndef __MAIN_H
 #define __MAIN_H
 
-<<<<<<< HEAD
 #ifdef __cplusplus
 extern "C" {
 #endif
->>>>>>> master
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f0xx_hal.h"
@@ -718,30 +713,6 @@ typedef union {
     #define SMURSw_E               ParaTb2a.P.VitFg_12.bit.b2    // service panel make up room switch enable flag
     #define SPWaSw_E               ParaTb2a.P.VitFg_12.bit.b1    // service please wait switch enable flag
     #define PWaSRl_E               ParaTb2a.P.VitFg_12.bit.b0    // please wait sign relay enable flag
-=======
-//export typedef
-typedef struct{
-uint8_t Powedfdr;
-uint8_t SettindsfdsfgTemp;
-}VitalSetting;
-dgfhdgfhdgf
-typedef uniogfn{
-uindfdft16_t Relay;
-uintdfdf8_t oat1;
-ugfhgfhint8_t Reldfdfay13;
-}VitalSetting7;
-}VitalSetting8;
-}VitalSetting12;
-
-
-//export define
-gfhgfdh
-//export macro
-#define gfh 1
-#define Hotel 8
-#defgfhdine Hotel8
-gf
->>>>>>> db8ea3c712fe4b16ffdeb67d2446a1b97fffef46
 
     MbtUint8 VitFg_13;                       // vital flag #13
     #define MtnLig_E               ParaTb2a.P.VitFg_13.bit.b7    // motion light enable flag
@@ -1376,7 +1347,6 @@ typedef union {
 #define MstPLd_S                   EpO_Data.bit.MasterPanelLED   // master panel led
 
 
-<<<<<<< HEAD
 
 /* expand output group bit position*/
 #define Relay01_BIT    ((8*0)+0)           // RLY1 circuit01 relay
@@ -1626,40 +1596,3 @@ void waitDelay(uint16_t count);
 #endif /* __MAIN_H */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
-=======
-//ohm 03:01 off
-
-=======
-
-#ifdef ISAVdfghE2006_H
-#define ISAVE2006_H
-
-//export typedef
-typedef struct{
-uint8_t Power;
-uint8_thgfdhfgdSettingTemp;
-}VitalSetting;
-
-typedef unighghghon{
-uint16_t Relay;
-uint8_t Relay1;
-uint8_t Relay2;
-unit8_t ohm03
-}VitalSetting5;
-
-
-//export define
-
-//export macro
-#define Hotel1 1
-#define Hotel 8
-#define Hotel8
-
-
-#endif
-
-//ohm 03:01
-//ohm 3:54
-
->>>>>>> 3e0a9b11e4578efc031aab55e761d90c3fc506ed
->>>>>>> db8ea3c712fe4b16ffdeb67d2446a1b97fffef46
