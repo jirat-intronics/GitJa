@@ -1219,7 +1219,7 @@ void EmrLg_Ct(void) {
     if(NmLn_Otg) {                 // if normal line outage
       // during emergency line supplied by generator
       Tmp_RlCc.uintAl = ParaTb05.P.Emer_LpC.uintAl;              // get available circuit
-      MOILp_TR();                                                // mask out inactive lamp relay from temporary relay circuit data
+     // MOILp_TR();                                                // mask out inactive lamp relay from temporary relay circuit data
       //------------------------------------------
       if(SOn_EmLg) {               // if set switch on emergency light flag
         SOn_EmLg = 0;              // clear switch on emergency light flag
