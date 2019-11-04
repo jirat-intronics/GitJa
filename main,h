@@ -12,7 +12,7 @@ typedef union{
 uint16_t Relay;
 uint8_t Relay1;
 uint8_t Relay2;
-}VitalSetting1;
+}VitalSetting8;
 
 //export define
 
