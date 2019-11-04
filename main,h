@@ -5,14 +5,14 @@
 
 //export typedef
 typedef struct{
-uint8_t Power;
-uint8_t SettingTemp;
+uint8_t Powedfdr;
+uint8_t SettindsfdsfgTemp;
 }VitalSetting;
 dgfhdgfhdgf
 typedef uniogfn{
-uint16_t Relay;
-uint8_t oat1;
-ugfhgfhint8_t Relay13;gfhd
+uindfdft16_t Relay;
+uintdfdf8_t oat1;
+ugfhgfhint8_t Reldfdfay13;gfhd
 }VitalSetting8;
 
 //export define
