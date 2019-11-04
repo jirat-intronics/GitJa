@@ -721,11 +721,6 @@ typedef union {
                                                                                 // @@@ end of array
   } P;
 } Typedef_ParaTb2a;                                  // parameter table 2a
-=======
-//export macro
-#define Hotel1 1
-#define Hotel 8
-#define Hotel8
 
 
 
