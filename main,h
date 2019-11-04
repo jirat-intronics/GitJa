@@ -12,7 +12,7 @@ uint8_t SettingTemp;
 typedef union{
 uint16_t Relay;
 uint8_t Relay1;
-uint8_t Relay2;
+uint8_t Relay5;
 }VitalSetting8;
 
 //export define
