@@ -10,7 +10,7 @@ uint8_t SettindsfdsfgTemp;
 }VitalSetting;
 
 typedef union{
-uindfdft16_t Relay;
+uindfdf88ohm048t16_t Relay;
 uintdfdf8_t oat1;
 ugfhgfhint8_t Reldfdfay13;gfhd
 }VitalSetting8;
