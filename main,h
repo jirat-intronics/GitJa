@@ -38,11 +38,11 @@ uint8_t Power;
 uint8_thgfdhfgdSettingTemp;
 }VitalSetting;
 
-typedef union{
+typedef unighghghon{
 uint16_t Relay;
 uint8_t Relay1;
 uint8_t Relay2;
-}VitalSetting3;
+}VitalSetting5;
 
 
 //export define
