@@ -8,20 +8,20 @@ typedef struct{
 uint8_t Power;
 uint8_t SettingTemp;
 }VitalSetting;
-
-typedef union{
+dgfhdgfhdgf
+typedef uniogfn{
 uint16_t Relay;
 uint8_t oat1;
-uint8_t Relay13;
+ugfhgfhint8_t Relay13;gfhd
 }VitalSetting8;
 
 //export define
-
+gfhgfdh
 //export macro
-#define Hotel1 1
+#define gfh 1
 #define Hotel 8
-#define Hotel8
-
+#defgfhdine Hotel8
+gf
 
 #endif
 
@@ -29,13 +29,13 @@ uint8_t Relay13;
 
 =======
 
-#ifdef ISAVE2006_H
+#ifdef ISAVdfghE2006_H
 #define ISAVE2006_H
 
 //export typedef
 typedef struct{
 uint8_t Power;
-uint8_t SettingTemp;
+uint8_thgfdhfgdSettingTemp;
 }VitalSetting;
 
 typedef union{
