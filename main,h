@@ -42,6 +42,7 @@ typedef unighghghon{
 uint16_t Relay;
 uint8_t Relay1;
 uint8_t Relay2;
+unit8_t ohm03
 }VitalSetting5;
 
 
