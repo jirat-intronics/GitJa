@@ -12,6 +12,7 @@ typedef union{
 uint16_t Relay;
 uint8_t Relay1;
 uint8_t Relay2;
+<<<<<<< HEAD
 }VitalSetting2;
 =======
 }VitalSetting1;
