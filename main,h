@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #ifdef ISAVE2006_H
 #define ISAVE2006_H
@@ -26,3 +27,34 @@ uint8_t Relay2;
 
 //ohm 03:01
 
+=======
+
+#ifdef ISAVE2006_H
+#define ISAVE2006_H
+
+//export typedef
+typedef struct{
+uint8_t Power;
+uint8_t SettingTemp;
+}VitalSetting;
+
+typedef union{
+uint16_t Relay;
+uint8_t Relay1;
+uint8_t Relay2;
+}VitalSetting3;
+
+
+//export define
+
+//export macro
+#define Hotel1 1
+#define Hotel 8
+#define Hotel8
+
+
+#endif
+
+//ohm 03:01
+
+>>>>>>> 3e0a9b11e4578efc031aab55e761d90c3fc506ed
